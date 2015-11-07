@@ -3,7 +3,7 @@
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://schemas.sulu.io/webspace/webspace http://schemas.sulu.io/webspace/webspace-1.0.xsd">
 
-    <name>sulu.io</name>
+    <name>sulu.mario2002.me</name>
     <key>sulu_io</key>
 
     <localizations>
@@ -61,8 +61,8 @@
             <environments>
                 <environment type="prod">
                     <urls>
-                        <url language="en">sulu.us</url>
-                        <url language="de">www.sulu.io</url>
+                        <url language="en">sulu.mario2002.me</url>
+                        <url language="de">sulu.mario2002.me</url>
                         <url>sulu.lo/{localization}</url>
                     </urls>
                 </environment>
