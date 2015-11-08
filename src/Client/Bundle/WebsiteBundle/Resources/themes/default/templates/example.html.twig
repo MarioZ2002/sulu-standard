@@ -96,7 +96,8 @@
 
             <ul property="categories">
                 {% for category in content.categories %}
-                    <li>{{ category.id }} - {{ category.name }}</li>
+                    {#{ dump(category) #}
+                    <li>{{ category.id }} - {{ category.key }}</li>
                 {% endfor %}
             </ul>
         {% endif %}
